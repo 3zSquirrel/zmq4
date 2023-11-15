@@ -1,4 +1,4 @@
-module github.com/3zSquirrel/zmq4
+module github.com/go-zeromq/zmq4
 
 go 1.20
 
